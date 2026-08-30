@@ -48,8 +48,7 @@ for the complete annotated folder tree.
 3. Create a local PostgreSQL database and run the scripts in `sql/` in this
 order: `create_database.sql` → `create_tables.sql` → `import_data.sql` →
 `views.sql` → `indexes.sql` → `analysis_queries.sql`.
-4. Open `tableau/Dashboard.twbx` in Tableau Desktop or Tableau Public (no
-live database connection required — the extract is packaged in the file).
+4. Open [`tableau/Dashboard.twbx`](https://public.tableau.com/app/profile/queen.ameh/viz/MTNNigeriaCustomerChurnAnalysis/MTNCustomerChurnDashboard?publish=yes) in Tableau Desktop or Tableau Public (no live database connection required — the extract is packaged in the file).
 5. Read `Documentation/Project_Guide.pdf` for the full step-by-step lab manual.
    Author Ameh Queen Lovina
 Data Analytics Essentials — Capstone Portfolio Project.
